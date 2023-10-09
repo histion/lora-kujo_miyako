@@ -5,10 +5,21 @@ ai绘图，喵都/九条都/石头人/无辜女路人lora模型，用p102哥布�
 我宣布喵都是最完美的老婆没有之一，谁敢反对我就打爆他的新海天。
 
 推荐搭配模型：没有，我也不知道哪来的大佬的私模，可以用 https://tusiart.com/models/645665057851729882 代替。
-推荐tag（使用此tag出来的是常服喵都，就是吃汉堡的蓝色的那条裙子~）
-masterpiece, best quality,1girl, jewelry, necklace, waving, long hair, smile, dress, solo, breasts, open mouth, eyebrows visible through hair, long sleeves, hair ornament, looking at viewer, brown hair, blue eyes, white dress, bangs, :d, hairclip,<lora:NAIV2_miyako:0.8>,
+推荐tag
 
-只出喵都不指定服装的正面tag用：masterpiece, best quality,1girl,brown hair, blue eyes, bangs, jewelry, necklace, long hair, hair ornament, hairclip, <lora:NAIV2_miyako:0.8>,
+使用此tag出来的是常服喵都，就是吃汉堡的蓝色的那条裙子~
+```yaml
+masterpiece, best quality,1girl, jewelry, necklace, waving, long hair, smile, dress, solo, breasts, open mouth, eyebrows visible through hair, long sleeves, hair ornament, looking at viewer, brown hair, blue eyes, white dress, bangs, :d, hairclip,<lora:NAIV2_miyako:0.8>,
+```
+
+使用此tag出来的是带外套的校服喵都~
+```yaml
+masterpiece, best quality,1girl, solo, long hair, thighhighs, sleeves past_wrists, cardigan, hair ornament, blush, open cardigan, smile, pink cardigan, pleated skirt, sailor collar, open clothes, breasts, blue eyes, full body, white legwear, skirt, long sleeves, white skirt, bangs, eyebrows visible through hair, medium breasts, closed mouth, collarbone, pink bow,hairclip,<lora:NAIV2_miyako:0.8>
+```
+
+只出喵都不指定服装的正面tag用：
+```yaml
+masterpiece, best quality,1girl,brown hair, blue eyes, bangs, jewelry, necklace, long hair, hair ornament, hairclip, <lora:NAIV2_miyako:0.8>,
 
 负面tag: lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry
 
@@ -17,7 +28,7 @@ Sampler: DPM++ 2M Karras,
 CFG scale: 9, 
 Size: 512x640, 
 炒粉参数：Denoising strength: 0.5, Hires upscale: 2, Hires steps: 10, Hires upscaler: R-ESRGAN 4x+ Anime6B
-
+```
 
 用喵都的解包立绘练的，v2版是先用立绘练然后用cg和高质量同人图加火，v3版是直接一起练。我个人喜欢v2版。
 <div align=center>
