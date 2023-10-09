@@ -8,11 +8,15 @@ ai绘图，喵都/九条都/石头人/无辜女路人lora模型，用p102哥布�
 推荐tag
 
 使用此tag出来的是常服喵都，就是吃汉堡的蓝色的那条裙子~
+![image](https://github.com/histion/lora-kujo_miyako/assets/65994410/a60ea68a-ecdc-44ca-b86c-ab1cf355d08f)
+
 ```yaml
 masterpiece, best quality,1girl, jewelry, necklace, waving, long hair, smile, dress, solo, breasts, open mouth, eyebrows visible through hair, long sleeves, hair ornament, looking at viewer, brown hair, blue eyes, white dress, bangs, :d, hairclip,<lora:NAIV2_miyako:0.8>,
 ```
 
 使用此tag出来的是带外套的校服喵都~
+![image](https://github.com/histion/lora-kujo_miyako/assets/65994410/f03a1290-01cc-4e53-9b61-8353f60a0723)
+
 ```yaml
 masterpiece, best quality,1girl, solo, long hair, thighhighs, sleeves past_wrists, cardigan, hair ornament, blush, open cardigan, smile, pink cardigan, pleated skirt, sailor collar, open clothes, breasts, blue eyes, full body, white legwear, skirt, long sleeves, white skirt, bangs, eyebrows visible through hair, medium breasts, closed mouth, collarbone, pink bow,hairclip,<lora:NAIV2_miyako:0.8>
 ```
