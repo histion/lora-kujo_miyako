@@ -11,7 +11,7 @@ ai绘图，喵都/九条都/石头人/无辜女路人lora模型，用p102哥布�
   https://civitai.com/models/4769/orangemixs  
 代替。
 几个模型的简单对比：(有些模型太大了，渣机跑不动，所以没有预览)
-<img src="https://raw.githubusercontent.com/histion/lora-kujo_miyako/main/%E9%A2%84%E8%A7%88%E5%9B%BE/xyz_grid-0000-1802287925-masterpiece%2C%20best%20quality%2C1girl%2C%20jewelry%2C%20necklace%2C%20waving%2C%20long%20hair%2C%20smile%2C%20dress%2C%20solo%2C%20breasts%2C%20open%20mouth%2C%20eyebrows%20visible.png">
+<img src="https://raw.githubusercontent.com/histion/lora-kujo_miyako/main/%E9%A2%84%E8%A7%88%E5%9B%BE/对比_.jpg">
 </div>
 
 
